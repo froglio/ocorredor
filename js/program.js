@@ -27,7 +27,7 @@ function increase() {
             var video = document.getElementById("video_play")
 
             if (selection == "2") {
-                video.src = "../videos/guitarvideo.mp4"
+                video.src = "froglio.github.io/ocorredor/videos/guitarvideo.mp4"
             }
 
             song_box.pause()
